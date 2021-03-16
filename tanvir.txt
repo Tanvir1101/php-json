@@ -1,0 +1,1 @@
+{"firstName":"mufrad","lastName":"mustavi","gender":"male","email":"calverinsiam1101@gmail.com","userName":"momojo","password":"1101","rEmail":"abc@gmail.com"}
